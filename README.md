@@ -4,48 +4,49 @@ Full-stack developer, passionate about building software solutions, and continuo
 ## Technologies & Tools 🛠️
 
 ### Programming Languages 💻
-- JavaScript
-- Python
-- PHP
-- CSS
-- R
+- JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+- Python ![Python](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
+- PHP ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg)
+- CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+- R ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg)
 
 ### Frameworks & Libraries 📚
-- React.js
-- React Native
-- Node.js
-- Laravel
-- Flask
-- Express
-- Tailwind CSS
-- Bootstrap
-- Paper Framework
+- React.js ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+- React Native ![React Native](https://upload.wikimedia.org/wikipedia/commons/0/03/React_Native_Logo.png)
+- Node.js ![Node.js](https://upload.wikimedia.org/wikipedia/commons/9/99/Node.js_logo_2015.svg)
+- Laravel ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_8.x_logo.svg)
+- Flask ![Flask](https://upload.wikimedia.org/wikipedia/commons/6/67/Flask_logo.svg)
+- Express ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+- Tailwind CSS ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/4/49/Tailwind_CSS_Logo.svg)
+- Bootstrap ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bootstrap_logo_2020.svg)
+- Paper Framework ![Paper Framework](https://upload.wikimedia.org/wikipedia/commons/f/fe/Paper_logo.svg)
 
 ### Machine Learning & AI 🤖
-- TensorFlow
-- Scikit-Learn
-- Artificial Intelligence
+- TensorFlow ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg)
+- Scikit-Learn ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/e/e2/Scikit-learn_logo_small.svg)
+- Artificial Intelligence ![AI](https://upload.wikimedia.org/wikipedia/commons/0/0f/Artificial_Intelligence_Logo.png)
 
 ### Databases 💾
-- MongoDB
-- MySQL
-- SQLite
+- MongoDB ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.svg)
+- MySQL ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/64/MySQL_logo.svg)
+- SQLite ![SQLite](https://upload.wikimedia.org/wikipedia/commons/2/27/SQLite_Logo.svg)
 
 ### Cloud & Deployment ☁️
-- AWS (Amazon Web Services)
-- Docker
+- AWS ![AWS](https://upload.wikimedia.org/wikipedia/commons/6/64/Amazon_Web_Services_Logo.svg)
+- Docker ![Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png)
 
 ### Version Control & Collaboration 🔧
-- GitHub
+- GitHub ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
 
 ### Data Visualization & Analytics 📊
-- Tableau
-- API
-- R Studios
+- Tableau ![Tableau](https://upload.wikimedia.org/wikipedia/commons/3/36/Tableau_Logo.png)
+- API ![API](https://upload.wikimedia.org/wikipedia/commons/9/91/Api_logo.svg)
+- R Studios ![R Studios](https://upload.wikimedia.org/wikipedia/commons/1/12/RStudio_logo.svg)
 
 ### Operating Systems & Networking 🌐
-- Linux
-- Cisco
+- Linux ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tux.svg)
+- Cisco ![Cisco](https://upload.wikimedia.org/wikipedia/commons/0/0b/Cisco_logo.svg)
+
 
 ## Projects 🚀
 - [Portfolio of projects](https://github.com/Benhackettdelaney/react-portfolio) - An application of a few project I have done.
@@ -59,6 +60,8 @@ Full-stack developer, passionate about building software solutions, and continuo
 - [Front-end React Native Application](https://github.com/Benhackettdelaney/AJ-CA2) - A React Native front-end using the Paper Framework.
 
 - [Front-end college application](https://github.com/Benhackettdelaney/AJ-CA2) - A college application with full CRUD functionality.
+
+
 
 ## Contact 📬
 - Email: benhackettdelaney9723@gmail.com ✉️
