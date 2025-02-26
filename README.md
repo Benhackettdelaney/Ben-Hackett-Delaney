@@ -4,48 +4,48 @@ Full-stack developer, passionate about building software solutions, and continuo
 ## Technologies & Tools 🛠️
 
 ### Programming Languages 💻
-- JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-- Python ![Python](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
-- PHP ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg)
-- CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-- R ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frameworks & Libraries 📚
-- React.js ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-- React Native ![React Native](https://upload.wikimedia.org/wikipedia/commons/0/03/React_Native_Logo.png)
-- Node.js ![Node.js](https://upload.wikimedia.org/wikipedia/commons/9/99/Node.js_logo_2015.svg)
-- Laravel ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_8.x_logo.svg)
-- Flask ![Flask](https://upload.wikimedia.org/wikipedia/commons/6/67/Flask_logo.svg)
-- Express ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
-- Tailwind CSS ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/4/49/Tailwind_CSS_Logo.svg)
-- Bootstrap ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bootstrap_logo_2020.svg)
-- Paper Framework ![Paper Framework](https://upload.wikimedia.org/wikipedia/commons/f/fe/Paper_logo.svg)
+- ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Paper Framework](https://img.shields.io/badge/Paper-FF5722?style=for-the-badge&logo=google&logoColor=white)
 
 ### Machine Learning & AI 🤖
-- TensorFlow ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg)
-- Scikit-Learn ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/e/e2/Scikit-learn_logo_small.svg)
-- Artificial Intelligence ![AI](https://upload.wikimedia.org/wikipedia/commons/0/0f/Artificial_Intelligence_Logo.png)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Artificial Intelligence](https://img.shields.io/badge/AI-4C8BF5?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 ### Databases 💾
-- MongoDB ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.svg)
-- MySQL ![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/64/MySQL_logo.svg)
-- SQLite ![SQLite](https://upload.wikimedia.org/wikipedia/commons/2/27/SQLite_Logo.svg)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Cloud & Deployment ☁️
-- AWS ![AWS](https://upload.wikimedia.org/wikipedia/commons/6/64/Amazon_Web_Services_Logo.svg)
-- Docker ![Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Version Control & Collaboration 🔧
-- GitHub ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Data Visualization & Analytics 📊
-- Tableau ![Tableau](https://upload.wikimedia.org/wikipedia/commons/3/36/Tableau_Logo.png)
-- API ![API](https://upload.wikimedia.org/wikipedia/commons/9/91/Api_logo.svg)
-- R Studios ![R Studios](https://upload.wikimedia.org/wikipedia/commons/1/12/RStudio_logo.svg)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+- ![API](https://img.shields.io/badge/API-5A5A5A?style=for-the-badge&logo=api&logoColor=white)
+- ![R Studios](https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ### Operating Systems & Networking 🌐
-- Linux ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tux.svg)
-- Cisco ![Cisco](https://upload.wikimedia.org/wikipedia/commons/0/0b/Cisco_logo.svg)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Cisco](https://img.shields.io/badge/Cisco-1C6B9C?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 ## Projects 🚀
