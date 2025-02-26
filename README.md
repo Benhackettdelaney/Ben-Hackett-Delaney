@@ -1,5 +1,5 @@
 # Hi, I'm Ben Hackett-Delaney 👋
-Full-stack developer, passionate about building software solutions, and continuously learning new technologies! 🚀
+Full-stack developer, building software solutions, and continuously learning new technologies! 🚀
 
 ## Technologies & Tools 🛠️
 
@@ -42,15 +42,12 @@ Full-stack developer, passionate about building software solutions, and continuo
 
 - [Front-end college application](https://github.com/Benhackettdelaney/AJ-CA2) - A college application with full CRUD functionality.
 
-
-
-## Contact 📬
-- Email: benhackettdelaney9723@gmail.com ✉️
-- LinkedIn: [linkedin.com/in/benhackett-delaney](https://www.linkedin.com/in/ben-hackett-delaney-655458250/) 🔗
-
 ## GitHub Stats 📊
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benhackettdelaney&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## About Me 🌱
-I enjoy solving complex problems, experimenting with new technologies.  
-In my free time, I love playing video games 🎮, 💻, Kickboxing 🥊, and MMA 🥋.
+I'm Ben Hackett-Delaney, a Creative Computing student passionate about full-stack development, machine learning, and AI. I enjoy turning complex problems into user-friendly solutions using technologies like React, Node.js, and TensorFlow. Outside of coding, I love gaming, kickboxing, MMA, and experimenting with art. Always eager to learn and grow, I’m excited to take on new challenges. 
+
+## Contact 📬
+- Email: benhackettdelaney9723@gmail.com ✉️
+- LinkedIn: [linkedin.com/in/benhackett-delaney](https://www.linkedin.com/in/ben-hackett-delaney-655458250/) 🔗
