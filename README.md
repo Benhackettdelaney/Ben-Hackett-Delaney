@@ -60,7 +60,7 @@ Full-stack developer, passionate about building software solutions, and continuo
 - [Front-end college application](https://github.com/Benhackettdelaney/AJ-CA2) - A college application with full CRUD functionality.
 ## Contact 📬
 - Email: benhackettdelaney9723@gmail.com
-- LinkedIn: [linkedin.com/in/benhackett-delaney](https://linkedin.com/in/benhackett-delaney)
+- LinkedIn: [linkedin.com/in/benhackett-delaney](https://www.linkedin.com/in/ben-hackett-delaney-655458250/)
 
 ## GitHub Stats 📊
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benhackettdelaney&show_icons=true&hide_title=true&count_private=true&theme=radical)
