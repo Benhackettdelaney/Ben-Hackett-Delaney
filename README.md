@@ -3,14 +3,14 @@ Full-stack developer, passionate about building software solutions, and continuo
 
 ## Technologies & Tools 🛠️
 
-### Programming Languages
+## Programming Languages
 - JavaScript
 - Python
 - PHP
 - CSS
 - R
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 - React.js
 - React Native
 - Node.js
@@ -21,34 +21,36 @@ Full-stack developer, passionate about building software solutions, and continuo
 - Bootstrap
 - Paper Framework
 
-### Machine Learning & AI
+## Machine Learning & AI
 - TensorFlow
 - Scikit-Learn
 - Artificial Intelligence
 
-### Databases
+## Databases
 - MongoDB
 - MySQL
 - SQLite
 
-### Cloud & Deployment
+## Cloud & Deployment
 - AWS (Amazon Web Services)
 - Docker
 
-### Version Control & Collaboration
+## Version Control & Collaboration
 - GitHub
 
-### Data Visualization & Analytics
+## Data Visualization & Analytics
 - Tableau
 - API
 - R Studios
 
-### Operating Systems & Networking
+## Operating Systems & Networking
 - Linux
 - Cisco
 
 
 ## Projects 🚀
+- [Portfolio of projects](https://github.com/Benhackettdelaney/react-portfolio) - An application of a few project I have done.
+
 - [Fuel comparison Application](https://github.com/Benhackettdelaney/prof-practise-api) - A fuel application with full CRUD functionality, this applications was made to compare the prices between fuel stat.
 
 - [Machine Learning Models](https://github.com/IADT-CC-Y4-AI2/machine-learning-with-python-and-scikit-learn-Benhackettdelaney) - A machine learning project using Jupyter notebook for identifying The legendary Pokemon in the dataset.
@@ -67,5 +69,5 @@ Full-stack developer, passionate about building software solutions, and continuo
 
 ## About Me 🌱
 - I enjoy solving complex problems, experimenting with new technologies, and building useful applications.
-- In my free time, I love playing video games, working on personal projects, and exploring AI.
+- In my free time, I love playing video games, working on personal projects, Kickboxing, MMA .
 
